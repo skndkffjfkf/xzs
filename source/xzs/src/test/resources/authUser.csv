@@ -1,0 +1,3 @@
+username,password,expectResult
+student,123456,true
+" student ",,false
