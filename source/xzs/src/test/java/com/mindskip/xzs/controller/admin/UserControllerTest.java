@@ -66,8 +66,8 @@ class UserControllerTest {
     void usereditTest() throws  Exception {
         //1.构造请求数据
         /*TODO: 请根据输入参数结构进行修改*/
-        String userName="admin";
-        String realName="admin";
+        String userName="student";
+        String realName="student";
         String password="123456";
         int role=3;
         int status =1;
