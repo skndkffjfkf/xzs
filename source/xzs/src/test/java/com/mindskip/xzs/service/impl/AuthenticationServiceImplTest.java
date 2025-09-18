@@ -15,7 +15,7 @@ class AuthenticationServiceImplTest {
     AuthenticationService authService;
     @Test
     void authUser() {
-        String username="student";
+        String username="admin";
         String password="123456";
         assertTrue(authService.authUser(username,password));
     }
